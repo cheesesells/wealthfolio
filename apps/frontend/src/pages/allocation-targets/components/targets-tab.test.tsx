@@ -17,6 +17,7 @@ const target: AllocationTarget = {
   name: "My target",
   scopeType: "all",
   taxonomyId: "asset_classes",
+  targetType: "category",
   triggerType: "threshold",
   driftBandBps: 100,
   bandType: "absolute",

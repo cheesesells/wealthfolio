@@ -395,6 +395,7 @@ export {
   generateCalculatedAdjustments,
   getAllocationTargetDrift,
   getAllocationTarget,
+  listAllocationTargetAssetWeights,
   listAllocationTargetWeights,
   listAllocationTargets,
   listTargetConstraints,
